@@ -3,7 +3,8 @@ I am a Ph.D. candidate in the Department of Statistics at University of Californ
 ### Publications
 
 YouRefIt: Embodied Reference Understanding with Language and Gesture
-Yixin Chen, Qing Li, Deqian Kong, Yik Lun Kei, Song-Chun Zhu, Tao Gao, Yixin Zhu, Siyuan Huang The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)
+Yixin Chen, Qing Li, Deqian Kong, Yik Lun Kei, Song-Chun Zhu, Tao Gao, Yixin Zhu, Siyuan Huang 
+The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)
 
 ### Teaching
 - Statistical Modeling and Learning (201B)
