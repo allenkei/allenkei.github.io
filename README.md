@@ -1,6 +1,10 @@
 Contact: allen29@ucla.edu
 
-I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
+I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). My research interests are 
+
+- Generative, Temporal and Latent Space Models for Networks/Graphs
+- Bayesian Inference
+- Computer Vision
 
 ### Publications
 
