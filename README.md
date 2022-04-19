@@ -8,7 +8,7 @@ I am a Ph.D. candidate in the Department of Statistics at University of Californ
 
 ### Publications
 
-Temporal Exponential Random Graph Model for Dynamic Valued Networks\
+A Partially Separable Temporal Model for Dynamic Valued Networks\
 In Preparation
 
 YouRefIt: Embodied Reference Understanding with Language and Gesture\
@@ -22,3 +22,4 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)
 - Introduction to Probability Theory (100A)
 - Introduction to Statistical Methods for Life and Health Sciences (13)
 - Introduction to Statistical Reasoning (10)
+[Recordings](https://www.youtube.com/c/AllenKei)
