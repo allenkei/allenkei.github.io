@@ -22,4 +22,5 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)
 - Introduction to Probability Theory (100A)
 - Introduction to Statistical Methods for Life and Health Sciences (13)
 - Introduction to Statistical Reasoning (10)
+
 [Recordings](https://www.youtube.com/c/AllenKei)
