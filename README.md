@@ -9,7 +9,9 @@ I am a Ph.D. candidate in the Department of Statistics at University of Californ
 ### Publications
 
 A Partially Separable Temporal Model for Dynamic Valued Networks\
-In Preparation
+**Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla
+Under Review
+[PDF](http://arxiv.org/abs/2205.13651)
 
 YouRefIt: Embodied Reference Understanding with Language and Gesture\
 Yixin Chen, Qing Li, Deqian Kong, **Yik Lun Kei**, Song-Chun Zhu, Tao Gao, Yixin Zhu, Siyuan Huang\
