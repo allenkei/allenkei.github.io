@@ -1,4 +1,6 @@
-Contact: allen29@ucla.edu
+Email: allen29@ucla.edu\
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)
+
 
 I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). My research interests are 
 
@@ -26,4 +28,4 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 - Introduction to Statistical Methods for Life and Health Sciences (13)
 - Introduction to Statistical Reasoning (10)
 
-[Recordings](https://www.youtube.com/c/AllenKei)
+[Lecture/Discussion Recordings](https://www.youtube.com/c/AllenKei)
