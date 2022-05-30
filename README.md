@@ -15,7 +15,7 @@ Under Review\
 
 YouRefIt: Embodied Reference Understanding with Language and Gesture\
 Yixin Chen, Qing Li, Deqian Kong, **Yik Lun Kei**, Song-Chun Zhu, Tao Gao, Yixin Zhu, Siyuan Huang\
-The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)
+The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 [PDF](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_YouRefIt_Embodied_Reference_Understanding_With_Language_and_Gesture_ICCV_2021_paper.pdf)
 
 ### Teaching
