@@ -29,3 +29,6 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 - Introduction to Statistical Reasoning (10)
 
 [Lecture/Discussion Recordings](https://www.youtube.com/c/AllenKei)
+
+### Work Experience
+Senior Data Analyst at UCLA Health (2017-2019)
