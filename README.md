@@ -7,6 +7,7 @@ I am a Ph.D. candidate in the Department of Statistics at University of Californ
 - Generative, Temporal and Latent Space Models for Networks/Graphs
 - Bayesian Inference
 - Computer Vision
+- Representation Learning
 
 ### Publications
 
