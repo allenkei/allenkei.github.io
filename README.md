@@ -33,3 +33,6 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 ### Work Experience
 Senior Data Analyst at UCLA Health (2017-2019)
+
+### Awards
+UCLA Graduate Fellowship (2021-2023)
