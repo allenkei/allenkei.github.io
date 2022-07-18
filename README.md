@@ -1,13 +1,13 @@
 Email: allen29@ucla.edu\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)
 
-
 I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S in Statistics at UCLA in 2017. My research interests are 
 
 - Generative, Temporal and Latent Space Models for Networks/Graphs
 - Bayesian Inference
 - Computer Vision
 - Representation Learning
+- Change Point Detection
 
 ### Publications
 
@@ -36,3 +36,4 @@ Senior Data Analyst at UCLA Health (2017-2019)
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)
+UCLA Summer Mentored Research Fellowship (2022)
