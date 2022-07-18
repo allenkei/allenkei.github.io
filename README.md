@@ -36,4 +36,4 @@ Senior Data Analyst at UCLA Health (2017-2019)
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
-UCLA Summer Mentored Research Fellowship (2022)\
+UCLA Summer Mentored Research Fellowship (2022)
