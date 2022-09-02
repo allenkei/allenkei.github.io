@@ -1,7 +1,7 @@
 Email: allen29@ucla.edu\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)
 
-I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S in Statistics and a B.A. in Economics at UCLA in 2017. My research interests are 
+I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA in 2017. My research interests are 
 
 - Generative Learning, Representation Learning, Unsupervised Learning
 - Computer Vision
