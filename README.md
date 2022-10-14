@@ -26,7 +26,7 @@ Under Review\
 
 
 Change Point Detection on Separable Temporal Exponential-family Random Graph Model\ 
-**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla
 
 
 \* denotes equal contribution
