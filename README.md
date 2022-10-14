@@ -1,7 +1,7 @@
 Email: allen29@ucla.edu\
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)
-[Github](https://github.com/allenkei)
-[Lectures](https://www.youtube.com/c/AllenKei/videos)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)\
+[Github](https://github.com/allenkei)\
+[Lectures](https://www.youtube.com/c/AllenKei/videos)\
 
 I am a Ph.D. candidate in the Department of Statistics at University of California, Los Angeles (UCLA). My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA in 2017. My research interests are 
 
@@ -25,8 +25,8 @@ Under Review\
 [PDF](http://arxiv.org/abs/2205.13651)
 
 
-Change Point Detection on Separable Temporal Exponential-family Random Graph Model 
-**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla
+Change Point Detection on Separable Temporal Exponential-family Random Graph Model\ 
+**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 
 
 \* denotes equal contribution
