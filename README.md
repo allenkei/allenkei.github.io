@@ -25,8 +25,8 @@ Under Review\
 [PDF](http://arxiv.org/abs/2205.13651)
 
 
-Change Point Detection on Separable Temporal Exponential-family Random Graph Model\ 
-**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla
+Change Point Detection on Separable Temporal Exponential-family Random Graph Model\
+**Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla
 
 
 \* denotes equal contribution
@@ -40,7 +40,6 @@ Change Point Detection on Separable Temporal Exponential-family Random Graph Mod
 - Introduction to Statistical Methods for Life and Health Sciences (13)
 - Introduction to Statistical Reasoning (10)
 
-[Lecture/Discussion Recordings](https://www.youtube.com/c/AllenKei)
 
 ### Work Experience
 Senior Data Analyst at UCLA Health (2017-2019)
