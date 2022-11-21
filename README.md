@@ -26,7 +26,9 @@ Under Review\
 
 
 Change Point Detection on Separable Temporal Exponential-family Random Graph Model\
-**Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla
+**Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+In submission\
+R package: library(CPDstergm)
 
 
 \* denotes equal contribution
@@ -43,6 +45,13 @@ Change Point Detection on Separable Temporal Exponential-family Random Graph Mod
 
 ### Work Experience
 Senior Data Analyst at UCLA Health (2017-2019)
+
+
+### R package
+library(devtools)\
+install_github("allenkei/CPDstergm")\
+library(CPDstergm)
+
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
