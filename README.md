@@ -48,9 +48,7 @@ Senior Data Analyst at UCLA Health (2017-2019)
 
 
 ### R package
-library(devtools)\
-install_github("allenkei/CPDstergm")\
-library(CPDstergm)
+library(CPDstergm) # install in R via install_github("allenkei/CPDstergm")
 
 
 ### Awards
