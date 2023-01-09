@@ -34,9 +34,10 @@ R package: library(CPDstergm)
 \* denotes equal contribution
 
 
-### Teaching
+### Teaching Fellow
 - Statistical Modeling and Learning (201B)
 - Computation and Optimization for Statistics (102B)
+- Introduction to Data Analysis and Regression (101A)
 - Mathematical Statistics (100B)
 - Introduction to Probability Theory (100A)
 - Introduction to Statistical Methods for Life and Health Sciences (13)
