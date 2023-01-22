@@ -35,7 +35,7 @@ R package: library(CPDstergm)
 
 
 ### Teaching
-Guest Leturer
+Guest Lecturer
 - Mathematical Statistics (100B)
 
 Teaching Fellow
