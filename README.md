@@ -35,6 +35,9 @@ R package: library(CPDstergm)
 
 
 ### Teaching
+Guest Leturer
+- Mathematical Statistics (100B)
+
 Teaching Fellow
 - Statistical Modeling and Learning (201B)
 - Computation and Optimization for Statistics (102B)
