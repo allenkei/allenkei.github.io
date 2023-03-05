@@ -25,7 +25,7 @@ Under Review\
 [PDF](http://arxiv.org/abs/2205.13651)
 
 
-Change Point Detection on Separable Temporal Exponential-family Random Graph Model\
+Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 In submission\
 R package: library(CPDstergm)
