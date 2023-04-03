@@ -22,12 +22,13 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 A Partially Separable Temporal Model for Dynamic Valued Networks\
 **Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
-[PDF](http://arxiv.org/abs/2205.13651)
+[PDF](https://arxiv.org/pdf/2205.13651.pdf)
 
 
 Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 In submission\
+[PDF](https://arxiv.org/pdf/2303.17642.pdf)
 R package: library(CPDstergm)
 
 
