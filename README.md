@@ -48,6 +48,7 @@ Teaching Fellow
 
 
 ### Work Experience
+Data Scientist Intern at Amazon (2023)
 Senior Data Analyst at UCLA Health (2017-2019)
 
 
