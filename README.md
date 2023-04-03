@@ -31,7 +31,6 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 \* denotes equal contribution
 
-
 ### Teaching
 Guest Lecturer
 - Mathematical Statistics (100B)
@@ -46,16 +45,12 @@ Teaching Fellow
 - Introduction to Statistical Methods for Life and Health Sciences (13)
 - Introduction to Statistical Reasoning (10)
 
-
 ### Work Experience
-
 Data Scientist Intern at Amazon (2023)\
 Senior Data Analyst at UCLA Health (2017-2019)
 
-
 ### R package
 library(CPDstergm) # install in R via install_github("allenkei/CPDstergm")
-
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
