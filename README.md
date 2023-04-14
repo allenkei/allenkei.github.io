@@ -34,6 +34,7 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 ### Teaching
 Guest Lecturer
 - Mathematical Statistics (100B)
+- Linear Models (100C)
 
 Teaching Fellow
 - Statistical Modeling and Learning (201B)
