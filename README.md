@@ -33,8 +33,8 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 ### Teaching
 Guest Lecturer
-- Mathematical Statistics (100B)
 - Linear Models (100C)
+- Mathematical Statistics (100B)
 
 Teaching Fellow
 - Statistical Modeling and Learning (201B)
@@ -59,3 +59,4 @@ UCLA Summer Mentored Research Fellowship (2022)
 
 ### Services
 Journal Reviewer
+
