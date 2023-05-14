@@ -15,7 +15,7 @@ I am a Ph.D. candidate in the Department of Statistics at University of Californ
 
 Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-In submission\
+Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
 R package: library(CPDstergm)
 
