@@ -21,7 +21,7 @@ R package: library(CPDstergm)
 
 A Partially Separable Temporal Model for Dynamic Valued Networks\
 **Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Under Review\
+Computational Statistics & Data Analysis
 [PDF](https://arxiv.org/pdf/2205.13651.pdf)
 
 YouRefIt: Embodied Reference Understanding with Language and Gesture\
