@@ -19,7 +19,7 @@ Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
 R package: library(CPDstergm)
 
-A Partially Separable Temporal Model for Dynamic Valued Networks\
+A Partially Separable Model for Dynamic Valued Networks\
 **Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Computational Statistics & Data Analysis\
 [PDF](https://arxiv.org/pdf/2205.13651.pdf)
@@ -32,8 +32,8 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 \* denotes equal contribution
 
 ### Work Experience
-Data Scientist Intern at Amazon (2023)\
-Senior Data Analyst at UCLA Health (2017-2019)
+Data Scientist Intern at **Amazon** (2023)\
+Senior Data Analyst at **UCLA Health** (2017-2019)
 
 ### Teaching
 Guest Lecturer
