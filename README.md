@@ -38,10 +38,10 @@ R package: library(CPDstergm)
 ### Work Experience
 
 **Amazon**\
-Data Scientist Intern at  (2023)
+Data Scientist Intern (2023)
 
 **UCLA Health**\
-Senior Data Analyst at  (2017-2019)
+Senior Data Analyst (2017-2019)
 
 ### Teaching
 
