@@ -36,15 +36,20 @@ R package: library(CPDstergm)
 \* denotes equal contribution
 
 ### Work Experience
-Data Scientist Intern at **Amazon** (2023)\
-Senior Data Analyst at **UCLA Health** (2017-2019)
+
+**Amazon**
+Data Scientist Intern at  (2023)\
+
+**UCLA Health**
+Senior Data Analyst at  (2017-2019)
 
 ### Teaching
-Guest Lecturer
+
+**Guest Lecturer**
 - Linear Models (100C)
 - Mathematical Statistics (100B)
 
-Teaching Fellow
+**Teaching Fellow**
 - Statistical Modeling and Learning (201B)
 - Computation and Optimization for Statistics (102B)
 - Introduction to Data Analysis and Regression (101A)
