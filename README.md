@@ -33,6 +33,11 @@ Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
 R package: library(CPDstergm)
 
+**Working papers**
+Latent Space Model for Change Point Detection in Dynamic Networks\
+**Yik Lun Kei**, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+Under Preparation\
+
 \* denotes equal contribution
 
 ### Work Experience
