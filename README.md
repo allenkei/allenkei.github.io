@@ -37,7 +37,7 @@ R package: library(CPDstergm)
 
 Latent Space Model for Change Point Detection in Dynamic Networks\
 **Yik Lun Kei**, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Under Preparation\
+Under Preparation
 
 \* denotes equal contribution
 
