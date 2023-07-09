@@ -46,6 +46,9 @@ Under Preparation
 **Amazon**\
 Data Scientist Intern (2023)
 
+**UCLA**\
+Graduate Student Researcher
+
 **UCLA Health**\
 Senior Data Analyst (2017-2019)
 
