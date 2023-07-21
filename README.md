@@ -43,7 +43,7 @@ Under Preparation
 
 ### Work Experience
 
-**Amazon**\
+**Amazon Robotics**\
 Data Scientist Intern (2023)
 
 **UCLA**\
