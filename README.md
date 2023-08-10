@@ -31,7 +31,7 @@ Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
-R package: library(CPDstergm)
+R package: library(CPDstergm)\
 Partially funded by NSF DMS-2015489
 
 **Working papers**
