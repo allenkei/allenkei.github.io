@@ -46,7 +46,9 @@ Under Preparation
 
 **Amazon Robotics**\
 Data Scientist Intern (2023)\
-Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences
+Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
+Robotics Science Summit: Poster
+
 
 **UCLA**\
 Graduate Student Researcher
