@@ -45,7 +45,8 @@ Under Preparation
 ### Work Experience
 
 **Amazon Robotics**\
-Data Scientist Intern (2023)
+Data Scientist Intern (2023)\
+Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences
 
 **UCLA**\
 Graduate Student Researcher
