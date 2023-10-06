@@ -51,7 +51,7 @@ Poster Presentation at Amazon Robotics Science Summit
 
 
 **UCLA**\
-Graduate Student Researcher
+Graduate Student Researcher (2019-)
 
 **UCLA Health**\
 Senior Data Analyst (2017-2019)
