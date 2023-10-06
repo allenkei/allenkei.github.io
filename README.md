@@ -81,5 +81,6 @@ UCLA Graduate Fellowship (2021-2023)\
 UCLA Summer Mentored Research Fellowship (2022)
 
 ### Services
-Journal Reviewer
+Journal Reviewer\
+Graudate Student Mentor
 
