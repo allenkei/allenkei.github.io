@@ -5,11 +5,12 @@ Email: allen29@ucla.edu\
 
 I am a Ph.D. candidate in the Department of Statistics at **University of California, Los Angeles (UCLA)**. My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. My research interests are 
 
-- Generative Learning
-- Empirical Bayes Methodology
-- Graph Learning
-- Anomaly Detection
+- Generative Models
+- Bayes Methodology
+- Graph Inference
 - Computer Vision
+- Anomaly Detection
+
 
 ### Publications
 
