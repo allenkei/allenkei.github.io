@@ -41,6 +41,12 @@ Change Point Detection on Dynamic Networks with Latent Space Model\
 **Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Preparation
 
+**Others**
+
+Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
+**Yik Lun Kei**, Mo Zhang, Claire Stolz, Anoop Aroor, Yulin Zhang, Yuchen Gao\
+Amazon Robotics Science Summit
+
 \* denotes equal contribution
 
 ### Work Experience
