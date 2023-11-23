@@ -45,7 +45,7 @@ Under Preparation
 
 Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
 **Yik Lun Kei**, Mo Zhang, Claire Stolz, Anoop Aroor, Yulin Zhang, Yuchen Gao\
-Amazon Robotics Science Summit
+Amazon Robotics Science Summit (Poster Presentation)
 
 \* denotes equal contribution
 
@@ -53,9 +53,6 @@ Amazon Robotics Science Summit
 
 **Amazon Robotics**\
 Data Scientist Intern (2023)\
-Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
-Poster Presentation at Amazon Robotics Science Summit
-
 
 **UCLA**\
 Graduate Student Researcher (2019-present)
