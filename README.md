@@ -52,7 +52,7 @@ Amazon Robotics Science Summit (Poster Presentation)
 ### Work Experience
 
 **Amazon Robotics**\
-Data Scientist Intern (2023)\
+Data Scientist Intern (2023)
 
 **UCLA**\
 Graduate Student Researcher (2019-present)
