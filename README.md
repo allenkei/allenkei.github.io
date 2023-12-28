@@ -35,12 +35,6 @@ Under Review\
 R package: library(CPDstergm)\
 Partially funded by NSF DMS-2015489
 
-**Working papers**
-
-Change Point Detection on Dynamic Networks with Latent Space Model\
-**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Under Preparation
-
 **Others**
 
 Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
