@@ -62,8 +62,13 @@ Senior Data Analyst (2017-2019)
 - Mathematical Statistics (100B)
 
 **Teaching Fellow**
+
+#### Graduate Courses
+- Mathematical Statistics (403)
 - Statistical Modeling and Learning (201B)
 - Research Design, Sampling, and Analysis (201A)
+
+#### Undergraduate Courses
 - Computation and Optimization for Statistics (102B)
 - Introduction to Data Analysis and Regression (101A)
 - Linear Models (100C)
