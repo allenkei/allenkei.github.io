@@ -73,7 +73,10 @@ Senior Data Analyst (2017-2019)
 - Introduction to Statistical Methods for Life and Health Sciences (13)
 - Introduction to Statistical Reasoning (10)
 
-### R package
+### Software 
+
+**R package**
+
 library(CPDstergm) # install in R via install_github("allenkei/CPDstergm")
 
 ### Awards
