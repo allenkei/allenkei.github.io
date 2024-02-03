@@ -3,13 +3,13 @@ Email: allen29@ucla.edu\
 [Github](https://github.com/allenkei)\
 [Lectures](https://www.youtube.com/c/AllenKei/videos)
 
-I am a Ph.D. candidate in the Department of Statistics at **University of California, Los Angeles (UCLA)**. My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. My research interests are 
+I am a Ph.D. candidate in the Department of Statistics & Data Science at **University of California, Los Angeles (UCLA)**. My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I have interned at Amazon. I received a B.S. in Statistics and a B.A. in Economics at UCLA. My research interests are 
 
 - Generative Models
-- Bayes Methodology
+- Representation Learning
 - Graph Inference
-- Computer Vision
 - Anomaly Detection
+- Computer Vision
 
 
 ### Publications
