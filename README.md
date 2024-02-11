@@ -10,6 +10,7 @@ I am a Ph.D. candidate in the Department of Statistics & Data Science at **Unive
 - Graph Inference
 - Bayesian Methodology
 - Anomaly Detection
+- Natural Language Processing
 - Computer Vision
 
 
