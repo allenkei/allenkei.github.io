@@ -10,8 +10,7 @@ I am a Ph.D. candidate in the Department of Statistics & Data Science at **Unive
 - Graph Inference
 - Bayesian Methodology
 - Anomaly Detection
-- Natural Language Processing
-- Computer Vision
+- CV & NLP
 
 
 ### Publications
@@ -20,7 +19,7 @@ I am a Ph.D. candidate in the Department of Statistics & Data Science at **Unive
 
 A Partially Separable Model for Dynamic Valued Networks\
 **Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Computational Statistics & Data Analysis\
+Computational Statistics & Data Analysis 2023\
 [PDF](https://arxiv.org/pdf/2205.13651.pdf)
 
 YouRefIt: Embodied Reference Understanding with Language and Gesture\
@@ -34,7 +33,6 @@ Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
-R package: library(CPDstergm)\
 Partially funded by NSF DMS-2015489
 
 **Others**
@@ -77,9 +75,10 @@ Senior Data Analyst (2017-2019)
 
 ### Software 
 
-**R package**
+library(CPDstergm)
+- An R package to detect multiple change points in time series of graphs with STERGM
+[Github](https://github.com/allenkei/CPDstergm)
 
-library(CPDstergm) # install in R via install_github("allenkei/CPDstergm")
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
