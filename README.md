@@ -62,21 +62,22 @@ Senior Data Analyst (2017-2019)
 - Mathematical Statistics (100B)
 
 **Teaching Fellow**
-- Mathematical Statistics (403)
-- Statistical Modeling and Learning (201B)
-- Research Design, Sampling, and Analysis (201A)
-- Computation and Optimization for Statistics (102B)
-- Introduction to Data Analysis and Regression (101A)
-- Linear Models (100C)
-- Mathematical Statistics (100B)
-- Introduction to Probability Theory (100A)
-- Introduction to Statistical Methods for Life and Health Sciences (13)
-- Introduction to Statistical Reasoning (10)
+
+Mathematical Statistics (403)\
+Statistical Modeling and Learning (201B)\
+Research Design, Sampling, and Analysis (201A)\
+Computation and Optimization for Statistics (102B)\
+Introduction to Data Analysis and Regression (101A)\
+Linear Models (100C)\
+Mathematical Statistics (100B)\
+Introduction to Probability Theory (100A)\
+Introduction to Statistical Methods for Life and Health Sciences (13)\
+Introduction to Statistical Reasoning (10)\
 
 ### Software 
 
 library(CPDstergm)\
-[Github](https://github.com/allenkei/CPDstergm)\
+[Github](https://github.com/allenkei/CPDstergm)
 - An R package to detect multiple change points in time series of graphs with STERGM
 
 
