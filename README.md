@@ -8,8 +8,8 @@ I am a Ph.D. candidate in the Department of Statistics & Data Science at **Unive
 - Generative Models
 - Representation Learning
 - Graph Inference
-- Bayesian Methodology
 - Anomaly Detection
+- Bayesian Methodology
 - CV & NLP
 
 
