@@ -75,9 +75,10 @@ Senior Data Analyst (2017-2019)
 
 ### Software 
 
-library(CPDstergm)
+library(CPDstergm)\
+[Github](https://github.com/allenkei/CPDstergm)\
 - An R package to detect multiple change points in time series of graphs with STERGM
-[Github](https://github.com/allenkei/CPDstergm)
+
 
 
 ### Awards
