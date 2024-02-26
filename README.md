@@ -57,6 +57,7 @@ Senior Data Analyst (2017-2019)
 ### Teaching
 
 **Guest Lecturer**
+
 Research Design, Sampling, and Analysis (201A)\
 Linear Models (100C)\
 Mathematical Statistics (100B)
