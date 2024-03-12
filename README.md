@@ -9,8 +9,7 @@ I am a Ph.D. candidate in the Department of Statistics & Data Science at **Unive
 - Representation Learning
 - Graph Inference
 - Anomaly Detection
-- Bayesian Methodology
-- CV & NLP
+- Computer Vision & Natural Language Processing
 
 
 ### Publications
@@ -70,7 +69,7 @@ Research Design, Sampling, and Analysis (201A)\
 Computation and Optimization for Statistics (102B)\
 Introduction to Data Analysis and Regression (101A)\
 Linear Models (100C)\
-Mathematical Statistics (100B)\
+Mathematical Statistics (100B) [8 quarters]\
 Introduction to Probability Theory (100A)\
 Introduction to Statistical Methods for Life and Health Sciences (13)\
 Introduction to Statistical Reasoning (10)
