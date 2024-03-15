@@ -6,10 +6,12 @@ Email: allen29@ucla.edu\
 I am a Ph.D. candidate in the Department of Statistics & Data Science at **University of California, Los Angeles (UCLA)**. My advisor is [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). 
 
 
-I am interested in a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for data such as time series, graphs, and language to allow useful abstraction, generation, and detection.
+I am interested in a **better understanding** of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for data such as time series, graphs, and language to allow useful abstraction, generation, and detection.
 
 
-Previously, I interned at **Amazon Robotics**. I also received a B.S. in Statistics and a B.A. in Economics at UCLA. My research interests are 
+Previously, I interned at **Amazon Robotics**. I also received a B.S. in Statistics and a B.A. in Economics at UCLA. 
+
+My research interests are 
 
 - Generative Models
 - Representation Learning
