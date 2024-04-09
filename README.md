@@ -42,6 +42,11 @@ Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
 Funded by NSF DMS-2015489
 
+Change Point Detection in Dynamic Graphs with Generative Model\
+**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla
+Under Review\
+[PDF](https://arxiv.org/pdf/2404.04719.pdf)
+
 **Others**
 
 Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
@@ -66,8 +71,8 @@ Senior Data Analyst (2017-2019)
 **Guest Lecturer**
 
 Research Design, Sampling, and Analysis (201A)\
-Linear Models (100C)\
-Mathematical Statistics (100B)
+Linear Models (100C) [2 times]\
+Mathematical Statistics (100B) [2 times]
 
 **Teaching Fellow**
 
@@ -86,7 +91,7 @@ Introduction to Statistical Reasoning (10)
 
 library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
-- An R package to detect multiple change points in time series of graphs with STERGM
+- An R package to detect multiple change points in time series of graphs, with STERGM and ADMM
 
 
 
