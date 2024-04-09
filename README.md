@@ -9,7 +9,7 @@ I am a Ph.D. candidate in the Department of Statistics & Data Science at **Unive
 I am interested in a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for complex data such as time series, graphs, and language to allow useful abstraction, generation, and detection.
 
 
-Previously, I interned at **Amazon Robotics**. I also received a B.S. in Statistics and a B.A. in Economics at UCLA. 
+Previously, I interned at **Amazon**. I also received a B.S. in Statistics and a B.A. in Economics at UCLA. 
 
 My research interests are 
 
