@@ -36,16 +36,17 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 **Preprints**
 
+Change Point Detection in Dynamic Graphs with Generative Model\
+**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla
+Under Review\
+[PDF](https://arxiv.org/pdf/2404.04719.pdf)
+
 Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
 Funded by NSF DMS-2015489
 
-Change Point Detection in Dynamic Graphs with Generative Model\
-**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla
-Under Review\
-[PDF](https://arxiv.org/pdf/2404.04719.pdf)
 
 **Others**
 
