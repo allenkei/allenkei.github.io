@@ -92,7 +92,7 @@ Introduction to Statistical Reasoning (10)
 
 library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
-- An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM) and solved by Alternating Direction Method of Multipliers (ADMM) with Group Fused Lasso regualarization.
+- An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM) and solved by Alternating Direction Method of Multipliers (ADMM) with Group Fused Lasso regularization.
 
 
 ### Awards
