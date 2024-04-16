@@ -17,6 +17,7 @@ My research interests are
 - Representation Learning
 - Graph Inference
 - Anomaly Detection
+- Empirical Bayes Methodology
 - Computer Vision & Natural Language Processing
 
 
