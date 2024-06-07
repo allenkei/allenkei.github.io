@@ -68,27 +68,6 @@ Graduate Student Researcher (2019-present)
 **UCLA Health**\
 Senior Data Analyst (2017-2019)
 
-### Teaching
-
-**Guest Lecturer**
-
-Research Design, Sampling, and Analysis (201A)\
-Linear Models (100C) [2 times]\
-Mathematical Statistics (100B) [2 times]
-
-**Teaching Fellow**
-
-Mathematical Statistics (403)\
-Statistical Modeling and Learning (201B)\
-Research Design, Sampling, and Analysis (201A)\
-Computation and Optimization for Statistics (102B)\
-Introduction to Data Analysis and Regression (101A)\
-Linear Models (100C)\
-Mathematical Statistics (100B) [8 quarters]\
-Introduction to Probability Theory (100A)\
-Introduction to Statistical Methods for Life and Health Sciences (13)\
-Introduction to Statistical Reasoning (10)
-
 ### Software 
 
 library(CPDstergm)\
