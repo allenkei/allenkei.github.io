@@ -3,13 +3,14 @@ Email: allen29@ucla.edu\
 [Github](https://github.com/allenkei)\
 [Lectures](https://www.youtube.com/c/AllenKei/videos)
 
-I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). 
+I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
+
+
+Previously, I interned at **Amazon**. I also received a B.S. in Statistics and a B.A. in Economics at UCLA. 
 
 
 I am interested in a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for complex data such as time series, graphs, and language to allow useful abstraction, generation, and detection.
 
-
-Previously, I interned at **Amazon**. I also received a B.S. in Statistics and a B.A. in Economics at UCLA. 
 
 My research interests are 
 
@@ -63,7 +64,7 @@ Amazon Robotics Science Summit (Poster Presentation)
 Data Scientist Intern (2023)
 
 **UCLA**\
-Graduate Student Researcher (2019-present)
+Graduate Student Researcher (2019-2024)
 
 **UCLA Health**\
 Senior Data Analyst (2017-2019)
@@ -72,7 +73,7 @@ Senior Data Analyst (2017-2019)
 
 library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
-- An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM) and solved by Alternating Direction Method of Multipliers (ADMM) with Group Fused Lasso regularization.
+- An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM). The optimization problem with Group Fused Lasso regularization is solved by Alternating Direction Method of Multipliers (ADMM).
 
 
 ### Awards
