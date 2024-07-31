@@ -6,7 +6,7 @@ Email: allen29@ucla.edu\
 I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io). Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I also interned at **Amazon**.
 
 
-I am interested in a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for complex data such as time series, graphs, and language to allow useful abstraction, generation, and detection.
+I am interested in a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for complex data such as time series, graphs, and language to allow useful abstraction, generation, and detection. My research has also been advised by [Prof. Mark Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA and many other amazing collaborators.
 
 
 My research interests are 
@@ -19,7 +19,7 @@ My research interests are
 - Computer Vision & Natural Language Processing
 
 
-My research has also been advised by [Prof. Mark Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA and many other amazing collaborators.
+
 
 
 
