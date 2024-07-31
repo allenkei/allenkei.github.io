@@ -1,4 +1,4 @@
-Email: allen29@ucla.edu\
+Email: ykei@ucsc.edu\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)\
 [Github](https://github.com/allenkei)\
 [Lectures](https://www.youtube.com/c/AllenKei/videos)
@@ -74,7 +74,7 @@ Senior Data Analyst (2017-2019)
 
 library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
-- An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM). The optimization problem with Group Fused Lasso regularization on the model parameter is solved by Alternating Direction Method of Multipliers (ADMM).
+- An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM). The optimization problem with Group Fused Lasso regularization on the model parameters is solved by Alternating Direction Method of Multipliers (ADMM).
 
 
 ### Awards
