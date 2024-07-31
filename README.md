@@ -19,7 +19,7 @@ My research interests are
 - Computer Vision & Natural Language Processing
 
 
-My research has also been advised by [Prof. Mark Handcock](https://handcock.github.io), [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html), and many other collaborators.
+My research has also been advised by [Prof. Mark Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA and many other amazing collaborators.
 
 
 
