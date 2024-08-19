@@ -1,4 +1,4 @@
-Email: ykei@ucsc.edu\
+Email: ykei@ucsc.edu/allen29@ucla.edu\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)\
 [Github](https://github.com/allenkei)\
 [Lectures](https://www.youtube.com/c/AllenKei/videos)
