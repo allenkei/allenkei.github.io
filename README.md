@@ -59,7 +59,14 @@ Amazon Robotics Science Summit (Poster Presentation)
 
 \* denotes equal contribution
 
+### Teaching
+
+STAT 132:  Classical and Bayesian Inference
+
 ### Work Experience
+
+**Cisco**\
+Software Engineer Intern (2024)
 
 **Amazon Robotics**\
 Data Scientist Intern (2023)
