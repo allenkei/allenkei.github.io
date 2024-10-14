@@ -1,5 +1,5 @@
 Email: ykei@ucsc.edu\
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)\
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)
 
 
 I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
