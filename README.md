@@ -1,7 +1,6 @@
-Email: ykei@ucsc.edu/allen29@ucla.edu\
+Email: ykei@ucsc.edu\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)\
-[Github](https://github.com/allenkei)\
-[Lectures](https://www.youtube.com/c/AllenKei/videos)
+
 
 I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
 
@@ -62,6 +61,7 @@ Amazon Robotics Science Summit (Poster Presentation)
 ### Teaching
 
 STAT 132:  Classical and Bayesian Inference
+[Lectures]([https://www.youtube.com/c/AllenKei/videos](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK))
 
 ### Work Experience
 
