@@ -60,7 +60,7 @@ Amazon Robotics Science Summit (Poster Presentation)
 
 ### Teaching
 
-STAT 132:  Classical and Bayesian Inference
+STAT 132:  Classical and Bayesian Inference\
 [Lectures]([https://www.youtube.com/c/AllenKei/videos](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK))
 
 ### Work Experience
