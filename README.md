@@ -17,7 +17,7 @@ My research interests are
 - Empirical Bayes Methodology
 - Computer Vision & Natural Language Processing
 
-If you interested in working on these topics, please email me.
+If you interested in working on these topics, please feel free to email me.
 
 Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I also interned at **Amazon** and **Cisco**.
 
