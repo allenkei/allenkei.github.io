@@ -39,7 +39,7 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 **Preprints**
 
 Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks\
-Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, and Yanzhen Chen
+Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, and Yanzhen Chen\
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
@@ -49,7 +49,7 @@ Under Review\
 [PDF](https://arxiv.org/pdf/2404.04719.pdf)
 
 Change Point Detection on a Separable Model for Dynamic Networks\
-**Yik Lun Kei** \*, Hangjian Li \*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
 Funded by NSF DMS-2015489
