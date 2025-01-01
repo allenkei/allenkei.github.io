@@ -39,7 +39,7 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 **Preprints**
 
 Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks\
-Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, and Yanzhen Chen\
+Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, Yanzhen Chen\
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
