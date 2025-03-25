@@ -17,8 +17,6 @@ My research interests are
 - Empirical Bayes Methodology
 - Computer Vision & Natural Language Processing
 
-If you interested in working on these topics, please feel free to email me.
-
 Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I also interned at **Amazon** and **Cisco**.
 
 
@@ -43,7 +41,7 @@ Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, 
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
-Generative Model for Change Point Detection in Dynamic Graphs\
+Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
 **Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2404.04719.pdf)
@@ -52,6 +50,7 @@ Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf)\
+[library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
 Funded by NSF DMS-2015489
 
 
