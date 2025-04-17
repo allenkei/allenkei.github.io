@@ -24,6 +24,11 @@ Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I a
 
 **Published papers**
 
+Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
+**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+Transactions on Machine Learning Research 2025\
+[PDF](https://arxiv.org/pdf/2404.04719.pdf)
+
 A Partially Separable Model for Dynamic Valued Networks\
 **Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Computational Statistics & Data Analysis 2023\
@@ -40,11 +45,6 @@ Confidence Interval Construction and Conditional Variance Estimation with Dense 
 Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, Yanzhen Chen\
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
-
-Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
-**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Under Review\
-[PDF](https://arxiv.org/pdf/2404.04719.pdf)
 
 Change Point Detection on a Separable Model for Dynamic Networks\
 **Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
