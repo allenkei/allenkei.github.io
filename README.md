@@ -26,7 +26,7 @@ Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I a
 
 Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
 **Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Transactions on Machine Learning Research 2025\
+Transactions on Machine Learning Research (TMLR) 2025\
 [PDF](https://arxiv.org/pdf/2404.04719.pdf)
 
 A Partially Separable Model for Dynamic Valued Networks\
