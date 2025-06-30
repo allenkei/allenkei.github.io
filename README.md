@@ -39,7 +39,13 @@ Yixin Chen, Qing Li, Deqian Kong, **Yik Lun Kei**, Song-Chun Zhu, Tao Gao, Yixin
 The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 [PDF](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_YouRefIt_Embodied_Reference_Understanding_With_Language_and_Gesture_ICCV_2021_paper.pdf)
 
+
 **Preprints**
+
+Change Point Localization and Inference in Dynamic Multilayer Networks\
+Fan Wang, Kyle Ritscher, **Yik Lun Kei**, Xin Ma, Oscar Hernan Madrid Padilla\
+Under Review\
+[PDF](https://arxiv.org/pdf/2506.21878)
 
 Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks\
 Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, Yanzhen Chen\
