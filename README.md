@@ -24,6 +24,12 @@ Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I a
 
 **Published papers**
 
+Change Point Detection on a Separable Model for Dynamic Networks\
+**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+Transactions on Machine Learning Research (TMLR) 2025\
+[PDF](https://arxiv.org/pdf/2303.17642.pdf), [library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
+Funded by NSF DMS-2015489
+
 Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
 **Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
@@ -52,11 +58,7 @@ Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, 
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
-Change Point Detection on a Separable Model for Dynamic Networks\
-**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
-Under Review\
-[PDF](https://arxiv.org/pdf/2303.17642.pdf), [library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
-Funded by NSF DMS-2015489
+
 
 
 **Others**
