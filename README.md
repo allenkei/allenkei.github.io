@@ -24,7 +24,7 @@ Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I a
 
 **Published papers**
 
-Change Point Detection on a Separable Model for Dynamic Networks\
+Change Point Detection on A Separable Model for Dynamic Networks\
 **Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf), [library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
