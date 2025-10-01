@@ -4,9 +4,9 @@ Email: ykei@ucsc.edu\
 
 I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
 
+I am interested in gaining a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for complex data such as time series, graphs, and language to allow useful *abstraction*, *generation*, and *detection*. 
 
-I am interested in gaining a better understanding of complex data to tackle real-world problems. Specifically, my research aims to develop realistic models and the associated inference and learning algorithms for complex data such as time series, graphs, and language to allow useful abstraction, generation, and detection. My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA and many other amazing collaborators.
-
+My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA, [Prof. Robert Lund](https://scholar.google.com/citations?user=6rejz8EAAAAJ), [Prof. Rebecca Killick](https://www.lancs.ac.uk/~killick/), [Prof. James D. Wilson](https://www.usfca.edu/faculty/james-wilson) during my current position at UCSC, and many other amazing collaborators.
 
 My research interests are 
 
@@ -15,7 +15,7 @@ My research interests are
 - Graph Inference
 - Anomaly Detection
 - Empirical Bayes Methodology
-- Computer Vision & Natural Language Processing
+- Optimization & Machine Learning
 
 Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I also interned at **Amazon** and **Cisco**.
 
@@ -59,8 +59,6 @@ Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
 
-
-
 **Others**
 
 Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
@@ -69,12 +67,16 @@ Amazon Robotics Science Summit (Poster Presentation)
 
 \* denotes equal contribution
 
+
 ### Teaching
 
 STAT 132:  Classical and Bayesian Inference\
 [Lectures](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK)
 
 STAT 80A: Gambling and Gaming
+
+STAT 266A: Data Visualization and Statistical Programming in R
+
 
 ### Work Experience
 
@@ -101,7 +103,9 @@ library(CPDstergm)\
 UCLA Graduate Fellowship (2021-2023)\
 UCLA Summer Mentored Research Fellowship (2022)
 
+
 ### Services
 Journal Reviewer\
+Graduate Student Committee\
 Graudate Student Mentor
 
