@@ -48,6 +48,10 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 **Preprints**
 
+Clustering in Networks with Time-varying Nodal Attributes\
+**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert Lund\
+Under Review
+
 Change Point Localization and Inference in Dynamic Multilayer Networks\
 Fan Wang, Kyle Ritscher, **Yik Lun Kei**, Xin Ma, Oscar Hernan Madrid Padilla\
 Under Review\
