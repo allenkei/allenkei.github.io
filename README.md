@@ -63,11 +63,16 @@ Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
 
+**In Progress**
+
+Change Point Detection for Cell Population Measured by Flow Cytometry\
+**Yik Lun Kei**, Qi Wang, Paul Parker, Sangwon Hyun
+
 **Others**
 
 Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
 **Yik Lun Kei**, Mo Zhang, Claire Stolz, Anoop Aroor, Yulin Zhang, Yuchen Gao\
-Amazon Robotics Science Summit (Poster Presentation)
+Amazon Robotics Science Summit
 
 \* denotes equal contribution
 
