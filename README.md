@@ -27,13 +27,13 @@ Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I a
 Change Point Detection on A Separable Model for Dynamic Networks\
 **Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
-[PDF](https://arxiv.org/pdf/2303.17642.pdf), [library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
+[PDF](https://arxiv.org/pdf/2303.17642.pdf), [library(CPDstergm)](https://github.com/allenkei/CPDstergm), [Video](https://youtu.be/glTg6F7Pxhc?si=D8yrNVlxzB1Tksik)\
 Funded by NSF DMS-2015489
 
 Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
 **Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
-[PDF](https://arxiv.org/pdf/2404.04719.pdf)
+[PDF](https://arxiv.org/pdf/2404.04719.pdf), [Video](https://youtu.be/s4IFIuK-B5k?si=v0WGLjypsqOUyXfv)
 
 A Partially Separable Model for Dynamic Valued Networks\
 **Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
@@ -80,7 +80,8 @@ Amazon Robotics Science Summit
 ### Teaching
 
 STAT 132:  Classical and Bayesian Inference\
-[Lectures](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK)
+[Lecture videos (Spring 2025)](https://youtube.com/playlist?list=PL3JwN3Ix6VdLXLzbomsVwGgBSgFRZVzfr&si=VqwjuORGytW_SUfK)\
+[Lecture videos (Fall 2024)](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK)
 
 STAT 80A: Gambling and Gaming
 
@@ -89,7 +90,7 @@ STAT 266A: Data Visualization and Statistical Programming in R
 STAT 280B: Seminars in Statistics
 
 
-### Work Experience
+### Industry Research Experience
 
 **Cisco**\
 Software Engineer Intern (2024)
@@ -109,6 +110,9 @@ library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
 - An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM). The optimization problem with Group Fused Lasso regularization on the model parameters is solved by Alternating Direction Method of Multipliers (ADMM).
 
+### Talks 
+
+Department of Statistics, University of California, Santa Cruz (April 2024)
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
