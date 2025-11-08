@@ -17,7 +17,7 @@ My research interests are
 - Empirical Bayes Methodology
 - Optimization & Machine Learning
 
-Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I also interned at **Amazon** and **Cisco**.
+Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in Statistics and a B.A. in Economics at UCLA.
 
 
 ### Publications
@@ -27,7 +27,7 @@ Previously, I received a B.S. in Statistics and a B.A. in Economics at UCLA. I a
 Change Point Detection on A Separable Model for Dynamic Networks\
 **Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
-[PDF](https://arxiv.org/pdf/2303.17642.pdf), [library(CPDstergm)](https://github.com/allenkei/CPDstergm), [Video](https://youtu.be/glTg6F7Pxhc?si=D8yrNVlxzB1Tksik)\
+[PDF](https://arxiv.org/pdf/2303.17642.pdf), [Video](https://youtu.be/glTg6F7Pxhc?si=D8yrNVlxzB1Tksik), [library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
 Funded by NSF DMS-2015489
 
 Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
@@ -121,7 +121,7 @@ UCLA Summer Mentored Research Fellowship (2022)
 
 ### Services
 Journal Reviewer\
-Grant Reviewer\
-Graduate Student Committee\
+NSF Grant Reviewer\
+Master Thesis Committee\
 Graudate Student Mentor
 
