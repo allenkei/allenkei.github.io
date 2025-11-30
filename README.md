@@ -99,9 +99,6 @@ Software Engineer Intern (2024)
 **Amazon Robotics**\
 Data Scientist Intern (2023)
 
-**UCLA**\
-Graduate Student Researcher (2019-2024)
-
 **UCLA Health**\
 Senior Data Analyst (2017-2019)
 
