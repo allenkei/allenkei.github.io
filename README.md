@@ -17,7 +17,7 @@ My research interests are
 - Empirical Bayes Methodology
 - Optimization & Machine Learning
 
-Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in Statistics and a B.A. in Economics at UCLA.
+Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in Statistics and a B.A. in Economics at UCLA. Currently, I am actively looking for a position in Texas.
 
 
 ### Publications
