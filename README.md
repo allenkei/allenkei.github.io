@@ -88,6 +88,8 @@ STAT 80A: Gambling and Gaming
 
 STAT 266A: Data Visualization and Statistical Programming in R
 
+STAT 131: Introduction to Probability Theory
+
 STAT 280B: Seminars in Statistics
 
 
