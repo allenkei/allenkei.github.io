@@ -48,7 +48,7 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 **Preprints**
 
-Clustering in Networks with Time-varying Nodal Attributes\
+Decoder-only Clustering in Graphs with Dynamic Attributes\
 **Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert Lund\
 Under Review\
 [PDF](https://arxiv.org/pdf/2511.04859)
