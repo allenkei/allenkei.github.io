@@ -6,7 +6,7 @@ I am a Visiting Assistant Professor in the Department of Statistics at **Univers
 
 My research focuses on developing realistic models and the associated inference and learning algorithms for multi-modal data to allow useful **abstraction**, **generation**, and **detection**. Extracting meaningful representations from data (*abstraction*) can help devise powerful models that produce valid knowledge in a real-world setting (*generation*), while identifying anomalies when certain criteria are violated (*detection*).
 
-My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA, [Prof. Robert Lund](https://scholar.google.com/citations?user=6rejz8EAAAAJ), [Prof. Rebecca Killick](https://www.lancs.ac.uk/~killick/), [Prof. James D. Wilson](https://www.usfca.edu/faculty/james-wilson) during my current position at UCSC, and many other amazing collaborators.
+My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA, [Prof. Robert B. Lund](https://scholar.google.com/citations?user=6rejz8EAAAAJ), [Prof. Rebecca Killick](https://www.lancs.ac.uk/~killick/), [Prof. James D. Wilson](https://www.usfca.edu/faculty/james-wilson) during my current position at UCSC, and many other amazing collaborators.
 
 My research interests are 
 
@@ -25,23 +25,23 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 **Published papers**
 
 1. Change Point Detection on A Separable Model for Dynamic Networks\
-**Yik Lun Kei**\*, Hangjian Li\*, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+**Yik Lun Kei**\*, H. Li\*, Y. Chen, O.H. Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
 [PDF](https://arxiv.org/pdf/2303.17642.pdf), [Video](https://youtu.be/glTg6F7Pxhc?si=D8yrNVlxzB1Tksik), [library(CPDstergm)](https://github.com/allenkei/CPDstergm)\
 Funded by NSF DMS-2015489
 
 1. Change Point Detection in Dynamic Graphs with Decoder-only Latent Space Model\
-**Yik Lun Kei**, Jialiang Li, Hangjian Li, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+**Yik Lun Kei**, J. Li, H. Li, Y. Chen, O.H. Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
 [PDF](https://arxiv.org/pdf/2404.04719.pdf), [Video](https://youtu.be/s4IFIuK-B5k?si=v0WGLjypsqOUyXfv)
 
 1. A Partially Separable Model for Dynamic Valued Networks\
-**Yik Lun Kei**, Yanzhen Chen, Oscar Hernan Madrid Padilla\
+**Yik Lun Kei**, Y. Chen, O.H. Madrid Padilla\
 Computational Statistics & Data Analysis 2023\
 [PDF](https://arxiv.org/pdf/2205.13651.pdf)
 
 1. YouRefIt: Embodied Reference Understanding with Language and Gesture\
-Yixin Chen, Qing Li, Deqian Kong, **Yik Lun Kei**, Song-Chun Zhu, Tao Gao, Yixin Zhu, Siyuan Huang\
+Y. Chen, Q. Li, D. Kong, **Yik Lun Kei**, S. Zhu, T. Gao, Y. Zhu, S. Huang\
 The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 [PDF](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_YouRefIt_Embodied_Reference_Understanding_With_Language_and_Gesture_ICCV_2021_paper.pdf)
 
@@ -49,17 +49,17 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 **Preprints**
 
 1. Decoder-only Clustering in Graphs with Dynamic Attributes\
-**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert B. Lund\
+**Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund\
 Under Review\
 [PDF](https://arxiv.org/pdf/2511.04859)
 
 1. Change Point Localization and Inference in Dynamic Multilayer Networks\
-Fan Wang, Kyle Ritscher, **Yik Lun Kei**, Xin Ma, Oscar Hernan Madrid Padilla\
+F. Wang, K. Ritscher, **Yik Lun Kei**, X. Ma, O.H. Madrid Padilla\
 Under Review\
 [PDF](https://arxiv.org/pdf/2506.21878)
 
 1. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks\
-Carlos Misael Madrid Padilla\*, Oscar Hernan Madrid Padilla\*, **Yik Lun Kei**, Zhi Zhang, Yanzhen Chen\
+C.M. Madrid Padilla\*, O.H. Madrid Padilla\*, **Yik Lun Kei**, Z. Zhang, Y. Chen\
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
@@ -67,15 +67,15 @@ Under Review\
 **In Progress**
 
 1. Clustering Auto-regressive Models on Weighted Graphs\
-**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert B. Lund
+**Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund
 
 1. Change Point Detection for Cell Population Measured by Flow Cytometry\
-**Yik Lun Kei**\*, Qi Wang\*, Paul Parker, Sangwon Hyun
+**Yik Lun Kei**\*, Q. Wang\*, P. Parker, S. Hyun
 
 **Others**
 
 1. Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
-**Yik Lun Kei**, Mo Zhang, Claire Stolz, Anoop Aroor, Yulin Zhang, Yuchen Gao\
+**Yik Lun Kei**, M. Zhang, C. Stolz, A. Aroor, Y. Zhang, Y. Gao\
 Amazon Robotics Science Summit
 
 \* denotes equal contribution
