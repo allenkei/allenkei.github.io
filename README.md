@@ -49,7 +49,7 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 **Preprints**
 
 1. Decoder-only Clustering in Graphs with Dynamic Attributes\
-**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert Lund\
+**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert B. Lund\
 Under Review\
 [PDF](https://arxiv.org/pdf/2511.04859)
 
@@ -67,10 +67,10 @@ Under Review\
 **In Progress**
 
 1. Clustering Auto-regressive Models on Weighted Graphs\
-**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert Lund
+**Yik Lun Kei**, Oscar Hernan Madrid Padilla, Rebecca Killick, James D. Wilson, Xi Chen, Robert B. Lund
 
 1. Change Point Detection for Cell Population Measured by Flow Cytometry\
-**Yik Lun Kei**, Qi Wang, Paul Parker, Sangwon Hyun
+**Yik Lun Kei**\*, Qi Wang\*, Paul Parker, Sangwon Hyun
 
 **Others**
 
@@ -87,11 +87,11 @@ STAT 132:  Classical and Bayesian Inference\
 [Lecture videos (Spring 2025)](https://youtube.com/playlist?list=PL3JwN3Ix6VdLXLzbomsVwGgBSgFRZVzfr&si=VqwjuORGytW_SUfK)\
 [Lecture videos (Fall 2024)](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK)
 
-STAT 80A: Gambling and Gaming
-
 STAT 266A: Data Visualization and Statistical Programming in R
 
 STAT 131: Introduction to Probability Theory
+
+STAT 80A: Gambling and Gaming
 
 STAT 280B: Seminars in Statistics
 
@@ -113,8 +113,8 @@ library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
 - An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM). The optimization problem with Group Fused Lasso regularization on the model parameters is solved by Alternating Direction Method of Multipliers (ADMM).
 
-library(GraphClustAR)\
-In Progress
+library(GraphClustAR)
+- In Progress
 
 ### Talks 
 
