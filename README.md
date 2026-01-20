@@ -67,10 +67,12 @@ Under Review\
 **In Progress**
 
 1. Clustering Auto-regressive Models on Weighted Graphs\
-**Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund
+**Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund\
+2026+
 
 1. Change Point Detection for Cell Population Measured by Flow Cytometry\
-**Yik Lun Kei**\*, Q. Wang\*, P. Parker, S. Hyun
+**Yik Lun Kei**\*, Q. Wang\*, P. Parker, S. Hyun\
+2026+
 
 **Others**
 
