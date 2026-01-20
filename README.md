@@ -1,6 +1,7 @@
 Email: allen29@ucla.edu / ykei@ucsc.edu\
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=EveYevcAAAAJ)
 
+[Actively searching for positions in Texas]
 
 I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
 
@@ -17,8 +18,7 @@ My research interests are
 - Empirical Bayes Methodology
 - Optimization & Machine Learning
 
-Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in Statistics and a B.A. in Economics at UCLA. I am currently looking for a position in **Texas**.
-
+Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in Statistics and a B.A. in Economics at UCLA.
 
 ### Publications
 
