@@ -71,7 +71,7 @@ Under Review\
 2026+
 
 1. Change Point Detection for Cell Population Measured by Flow Cytometry\
-**Yik Lun Kei**\*, Q. Wang\*, P. Parker, S. Hyun\
+**Yik Lun Kei**\*, Q. Wang\*, P. Parker, F. Ribalet, S. Hyun\
 2026+
 
 **Others**
