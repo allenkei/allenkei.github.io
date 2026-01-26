@@ -24,6 +24,11 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 
 **Published papers**
 
+1. Change Point Localization and Inference in Dynamic Multilayer Networks\
+F. Wang, K. Ritscher, **Yik Lun Kei**, X. Ma, O.H. Madrid Padilla\
+International Conference on Learning Representations (ICLR) 2026\
+[PDF](https://arxiv.org/pdf/2506.21878)
+
 1. Change Point Detection on A Separable Model for Dynamic Networks\
 **Yik Lun Kei**\*, H. Li\*, Y. Chen, O.H. Madrid Padilla\
 Transactions on Machine Learning Research (TMLR) 2025\
@@ -52,11 +57,6 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 **Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund\
 Under Review\
 [PDF](https://arxiv.org/pdf/2511.04859)
-
-1. Change Point Localization and Inference in Dynamic Multilayer Networks\
-F. Wang, K. Ritscher, **Yik Lun Kei**, X. Ma, O.H. Madrid Padilla\
-Under Review\
-[PDF](https://arxiv.org/pdf/2506.21878)
 
 1. Confidence Interval Construction and Conditional Variance Estimation with Dense ReLU Networks\
 C.M. Madrid Padilla\*, O.H. Madrid Padilla\*, **Yik Lun Kei**, Z. Zhang, Y. Chen\
