@@ -70,10 +70,6 @@ Under Review\
 **Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund\
 2026+
 
-1. Change Point Detection for Cell Population Measured by Flow Cytometry\
-**Yik Lun Kei**\*, Q. Wang\*, P. Parker, F. Ribalet, S. Hyun\
-2026+
-
 **Others**
 
 1. Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
