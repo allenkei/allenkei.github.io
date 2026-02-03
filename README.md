@@ -125,9 +125,8 @@ Department of Statistics, University of California, Santa Cruz (April 2024)
 UCLA Graduate Fellowship (2021-2023)\
 UCLA Summer Mentored Research Fellowship (2022)
 
-
 ### Services
-Journal Reviewer\
+Journal/Conference Reviewer\
 NSF Grant Reviewer\
 Master Thesis Committee\
 Graudate Student Mentor
