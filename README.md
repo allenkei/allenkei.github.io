@@ -74,18 +74,21 @@ Under Review\
 
 1. Online Multi-robot Deadlock Prediction with Conditional Variational Auto-Encoder for Sequences\
 **Yik Lun Kei**, M. Zhang, C. Stolz, A. Aroor, Y. Zhang, Y. Gao\
-Amazon Robotics Science Summit
+Amazon Robotics Science Summit\
+Work performed during internship at Amazon
 
 \* denotes equal contribution
 
 
 ### Teaching
 
+STAT 292: Advanced Topics in Statistics
+
+STAT 266A: Data Visualization and Statistical Programming in R
+
 STAT 132:  Classical and Bayesian Inference\
 [Lecture videos (Spring 2025)](https://youtube.com/playlist?list=PL3JwN3Ix6VdLXLzbomsVwGgBSgFRZVzfr&si=VqwjuORGytW_SUfK)\
 [Lecture videos (Fall 2024)](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK)
-
-STAT 266A: Data Visualization and Statistical Programming in R
 
 STAT 131: Introduction to Probability Theory
 
