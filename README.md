@@ -118,7 +118,9 @@ library(GraphClustAR)
 
 ### Talks 
 
-Department of Statistics, University of California, Santa Cruz (April 2024)
+Department of Statistics, University of California, Santa Cruz (Apr. 2024)\
+Department of Mathematics and Statistics, University of San Francisco (Feb. 2026)
+
 
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
