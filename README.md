@@ -23,6 +23,9 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 
 **Published papers**
 
+1. A collaborative paper has been accepted to **Science**.\
+More details to come soon.
+
 1. Change Point Localization and Inference in Dynamic Multilayer Networks\
 F. Wang, K. Ritscher, **Yik Lun Kei**, X. Ma, O.H. Madrid Padilla\
 International Conference on Learning Representations (ICLR) 2026\
