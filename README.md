@@ -88,9 +88,7 @@ STAT 292: Advanced Topics in Statistics
 
 STAT 266A: Data Visualization and Statistical Programming in R
 
-STAT 132:  Classical and Bayesian Inference\
-[Lecture videos (Spring 2025)](https://youtube.com/playlist?list=PL3JwN3Ix6VdLXLzbomsVwGgBSgFRZVzfr&si=VqwjuORGytW_SUfK)\
-[Lecture videos (Fall 2024)](https://youtube.com/playlist?list=PL3JwN3Ix6VdIG5S2QvyLs7xLb_JvMpssG&si=ZV6VpYiuPrv0F7VK)
+STAT 132:  Classical and Bayesian Inference
 
 STAT 131: Introduction to Probability Theory
 
@@ -116,8 +114,9 @@ library(CPDstergm)\
 [Github](https://github.com/allenkei/CPDstergm)
 - An R package to detect multiple change points in time series of graphs, using Separable Temporal Exponential-family Random Graph Model (STERGM). The optimization problem with Group Fused Lasso regularization on the model parameters is solved by Alternating Direction Method of Multipliers (ADMM).
 
-library(GraphClustAR)
-- In Progress
+library(GraphClustAR)\
+[Github](https://github.com/allenkei/GraphClustAR)
+- An R package for clustering node-level time series by jointly modeling temporal dynamics and network structure via Graph-fused LASSO regularization and autoregressive models.
 
 ### Talks 
 
