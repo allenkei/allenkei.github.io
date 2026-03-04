@@ -65,6 +65,10 @@ C.M. Madrid Padilla\*, O.H. Madrid Padilla\*, **Yik Lun Kei**, Z. Zhang, Y. Chen
 Under Review\
 [PDF](https://arxiv.org/pdf/2412.20355)
 
+1. Change Point Detection for Cell Populations Measured via Flow Cytometry\
+**Yik Lun Kei**\*, Q. Wang\*, P. Parker, F. Ribalet, S. Hyun\
+Under Review\
+PDF
 
 **In Progress**
 
