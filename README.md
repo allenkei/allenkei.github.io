@@ -4,7 +4,7 @@ Email: allen29@ucla.edu / ykei@ucsc.edu\
 
 I am a Visiting Assistant Professor in the Department of Statistics at **University of California, Santa Cruz (UCSC)**. I obtained a Ph.D. in Statistics and Data Science at **University of California, Los Angeles (UCLA)** in June 2024, under the supervision of [Prof. Oscar Hernan Madrid Padilla](https://hernanmp.github.io).
 
-My research focuses on developing realistic models and the associated inference and learning algorithms for multi-modal data to allow useful **abstraction**, **generation**, and **detection**. I believe that abstracting meaningful representations from multimodal data can help devise powerful models that generate valid knowledge in a real-world setting, while detecting meaningful structures in data under certain criteria.
+My research focuses on developing realistic models and the associated inference and learning algorithms for data to allow useful **abstraction**, **generation**, and **detection**. I believe that abstracting meaningful representations from multi-modal data can help devise powerful models that generate valid knowledge in a real-world setting, while detecting meaningful structures in data under certain criteria.
 
 My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA, [Prof. Robert B. Lund](https://scholar.google.com/citations?user=6rejz8EAAAAJ), [Prof. Rebecca Killick](https://www.lancs.ac.uk/~killick/), [Prof. James D. Wilson](https://www.usfca.edu/faculty/james-wilson) during my current position at UCSC, and many other amazing collaborators.
 
@@ -12,7 +12,7 @@ My research interests are
 
 - Generative Models
 - Representation Learning
-- Multimodal Learning
+- Multi-modal Learning
 - Graph Inference
 - Anomaly and Cluster Detection
 - Empirical Bayes Methodology
@@ -75,7 +75,7 @@ PDF
 
 1. Clustering Auto-regressive Models on Weighted Graphs\
 **Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund\
-2026+
+2026+\
 [library(GraphClustAR)](https://github.com/allenkei/GraphClustAR)
 
 **Others**
