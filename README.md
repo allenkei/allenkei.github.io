@@ -69,7 +69,8 @@ Under Review\
 1. Change Point Detection for Cell Populations Measured via Flow Cytometry\
 **Yik Lun Kei**\*, Q. Wang\*, P. Parker, F. Ribalet, S. Hyun\
 Under Review\
-[PDF](https://arxiv.org/pdf/2603.05700)
+[PDF](https://arxiv.org/pdf/2603.05700)\
+Funded by NSF CAIG
 
 **In Progress**
 
