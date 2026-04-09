@@ -6,7 +6,7 @@ I am a Visiting Assistant Professor in the Department of Statistics at **Univers
 
 My research focuses on developing realistic models and the associated inference and learning algorithms for data to allow useful **abstraction**, **generation**, and **detection**. I believe that abstracting meaningful representations from multi-modal data can help devise powerful models that generate valid knowledge in a real-world setting, while detecting meaningful structures in data under certain criteria.
 
-My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA, [Prof. Robert B. Lund](https://scholar.google.com/citations?user=6rejz8EAAAAJ), [Prof. Rebecca Killick](https://www.lancs.ac.uk/~killick/), [Prof. James D. Wilson](https://www.usfca.edu/faculty/james-wilson) during my current position at UCSC, and many other amazing collaborators.
+My research has also been advised by [Prof. Mark S. Handcock](https://handcock.github.io) and [Prof. Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) at UCLA, [Prof. Robert B. Lund](https://scholar.google.com/citations?user=6rejz8EAAAAJ), [Prof. Rebecca Killick](https://www.lancs.ac.uk/~killick/), [Prof. James D. Wilson](https://www.usfca.edu/faculty/james-wilson) at UCSC, and many other amazing collaborators.
 
 My research interests are 
 
@@ -24,8 +24,11 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 
 **Published papers**
 
-1. A collaborative paper has been accepted to **Science**.\
-More details to come soon.
+1. Lethal Conflict After Group Fission in Wild Chimpanzees\
+A. Sandel, Y. He\*, J. Ren\*, **Yik Lun Kei**\*, K. Lee, I. Clark, R. Reddy, J. Negrey, C. Birungi, B. Apamaku, D. Kanweri, D. Kalunga, C. Aliganyira, S. Ramírez-Amaya, P. Nakayima, R. Katumba, B. Kamugyisha, D. Acosta-Florez, B. van Boekholt, G. Mbabazi, E. Akamumpa, S. Namaganda, A. Tumusiime, S. Angedakin, G. Reinert, O.H. Madrid Padilla, M. Cucuringu, D. Wipf, K. Langergraber, D. Watts, J. Mitani\
+Science 2026\
+[PDF](https://www.science.org/doi/10.1126/science.adz4944)\
+Media Coverage from [Science](https://www.science.org/doi/10.1126/science.aeg6719), [UT Austin](https://news.utexas.edu/2026/04/09/first-clearly-documented-split-in-worlds-largest-known-chimpanzee-community-leads-to-deadly-violence/), [The Times](https://www.thetimes.com/uk/science/article/chimpanzee-group-splits-bloody-civil-war-59dk6swzr), [BBC](https://www.discoverwildlife.com/animal-facts/ngogo-chimpanzee-conflict)
 
 1. Change Point Localization and Inference in Dynamic Multilayer Networks\
 F. Wang, K. Ritscher, **Yik Lun Kei**, X. Ma, O.H. Madrid Padilla\
@@ -90,8 +93,6 @@ Work performed during internship at Amazon
 
 
 ### Teaching
-
-STAT 292: Advanced Topics in Statistics
 
 STAT 266A: Data Visualization and Statistical Programming in R
 
