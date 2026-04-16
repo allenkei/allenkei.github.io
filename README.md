@@ -25,7 +25,7 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 **Published papers**
 
 1. Lethal Conflict After Group Fission in Wild Chimpanzees\
-A. Sandel, Y. He\*, J. Ren\*, **Yik Lun Kei**\*, K. Lee, I. Clark, R. Reddy, J. Negrey, C. Birungi, B. Apamaku, D. Kanweri, D. Kalunga, C. Aliganyira, S. Ramírez-Amaya, P. Nakayima, R. Katumba, B. Kamugyisha, D. Acosta-Florez, B. van Boekholt, G. Mbabazi, E. Akamumpa, S. Namaganda, A. Tumusiime, S. Angedakin, G. Reinert, O.H. Madrid Padilla, M. Cucuringu, D. Wipf, K. Langergraber, D. Watts, J. Mitani\
+<span class="authors">A. Sandel, Y. He\*, J. Ren\*, **Yik Lun Kei**\*, K. Lee, I. Clark, R. Reddy, J. Negrey, C. Birungi, B. Apamaku, D. Kanweri, D. Kalunga, C. Aliganyira, S. Ramírez-Amaya, P. Nakayima, R. Katumba, B. Kamugyisha, D. Acosta-Florez, B. van Boekholt, G. Mbabazi, E. Akamumpa, S. Namaganda, A. Tumusiime, S. Angedakin, G. Reinert, O.H. Madrid Padilla, M. Cucuringu, D. Wipf, K. Langergraber, D. Watts, J. Mitani</span>\
 Science 2026\
 [PDF](https://www.science.org/doi/10.1126/science.adz4944)\
 Media Coverage from [Science](https://www.science.org/doi/10.1126/science.aeg6719), [UT Austin](https://news.utexas.edu/2026/04/09/first-clearly-documented-split-in-worlds-largest-known-chimpanzee-community-leads-to-deadly-violence/), [The Times](https://www.thetimes.com/uk/science/article/chimpanzee-group-splits-bloody-civil-war-59dk6swzr), [BBC](https://www.discoverwildlife.com/animal-facts/ngogo-chimpanzee-conflict)
