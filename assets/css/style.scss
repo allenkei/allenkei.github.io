@@ -3,16 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
-  font-size: 14px;
-}
-
-p {
-  font-size: 13px;
-}
-
-.small-text {
-  font-size: 12px;
+.authors {
+  font-size: 12px !important;
   color: #666;
 }
-
