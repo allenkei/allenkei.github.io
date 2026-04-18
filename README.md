@@ -24,6 +24,8 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 
 **Published papers**
 
+<sup>* denotes equal contribution</sup>
+
 1. Lethal Conflict After Group Fission in Wild Chimpanzees\
 A. Sandel, Y. He\*, J. Ren\*, **Yik Lun Kei**\*, K. Lee, I. Clark, R. Reddy, J. Negrey, C. Birungi, B. Apamaku, D. Kanweri, D. Kalunga, C. Aliganyira, S. Ramírez-Amaya, P. Nakayima, R. Katumba, B. Kamugyisha, D. Acosta-Florez, B. van Boekholt, G. Mbabazi, E. Akamumpa, S. Namaganda, A. Tumusiime, S. Angedakin, G. Reinert, O.H. Madrid Padilla, M. Cucuringu, D. Wipf, K. Langergraber, D. Watts, J. Mitani\
 Science 2026\
@@ -88,8 +90,6 @@ Funded by NSF CAIG
 **Yik Lun Kei**, M. Zhang, C. Stolz, A. Aroor, Y. Zhang, Y. Gao\
 Amazon Robotics Science Summit\
 Work performed during internship at Amazon
-
-\* denotes equal contribution
 
 
 ### Teaching
