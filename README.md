@@ -30,7 +30,7 @@ Previously, I have interned at **Amazon** and **Cisco**. I received a B.S. in St
 A. Sandel, Y. He\*, J. Ren\*, **Yik Lun Kei**\*, K. Lee, I. Clark, R. Reddy, J. Negrey, C. Birungi, B. Apamaku, D. Kanweri, D. Kalunga, C. Aliganyira, S. Ramírez-Amaya, P. Nakayima, R. Katumba, B. Kamugyisha, D. Acosta-Florez, B. van Boekholt, G. Mbabazi, E. Akamumpa, S. Namaganda, A. Tumusiime, S. Angedakin, G. Reinert, O.H. Madrid Padilla, M. Cucuringu, D. Wipf, K. Langergraber, D. Watts, J. Mitani\
 Science 2026\
 [PDF](https://www.science.org/doi/10.1126/science.adz4944)\
-Media Coverage from [Science](https://www.science.org/doi/10.1126/science.aeg6719), [UT Austin](https://news.utexas.edu/2026/04/09/first-clearly-documented-split-in-worlds-largest-known-chimpanzee-community-leads-to-deadly-violence/), [The Times](https://www.thetimes.com/uk/science/article/chimpanzee-group-splits-bloody-civil-war-59dk6swzr), [BBC](https://www.discoverwildlife.com/animal-facts/ngogo-chimpanzee-conflict), [Wall Street Journal](https://www.wsj.com/us-news/ngogo-uganda-chimpanzee-civil-war-99f04332?reflink=desktopwebshare_permalink), [NBC News](https://www.nbcnews.com/science/science-news/chimpanzee-study-infighting-violent-attacks-rcna267179), [Scientific American](https://www.scientificamerican.com/article/two-hundred-chimpanzees-are-embroiled-in-a-civil-war/), [New York Times](https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html)
+Media Coverage from [Science](https://www.science.org/doi/10.1126/science.aeg6719), [UT Austin](https://news.utexas.edu/2026/04/09/first-clearly-documented-split-in-worlds-largest-known-chimpanzee-community-leads-to-deadly-violence/), [The Times](https://www.thetimes.com/uk/science/article/chimpanzee-group-splits-bloody-civil-war-59dk6swzr), [BBC](https://www.discoverwildlife.com/animal-facts/ngogo-chimpanzee-conflict), [Wall Street Journal](https://www.wsj.com/us-news/ngogo-uganda-chimpanzee-civil-war-99f04332?reflink=desktopwebshare_permalink), [NBC News](https://www.nbcnews.com/science/science-news/chimpanzee-study-infighting-violent-attacks-rcna267179), [Scientific American](https://www.scientificamerican.com/article/two-hundred-chimpanzees-are-embroiled-in-a-civil-war/), [New York Times](https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html), [Wikipedia](https://en.wikipedia.org/wiki/Ngogo_chimpanzee_war)
 
 1. Change Point Localization and Inference in Dynamic Multilayer Networks\
 F. Wang, K. Ritscher, **Yik Lun Kei**, X. Ma, O.H. Madrid Padilla\
@@ -61,7 +61,7 @@ The IEEE International Conference on Computer Vision (ICCV) 2021 (Oral)\
 
 **Preprints**
 
-1. Decoder-only Clustering in Graphs with Dynamic Attributes\
+1. Decoder-only Clustering in Attributed Graphs\
 **Yik Lun Kei**, O.H. Madrid Padilla, R. Killick, J. Wilson, X. Chen, R. Lund\
 Under Review\
 [PDF](https://arxiv.org/pdf/2511.04859)
@@ -127,14 +127,13 @@ library(GraphClustAR)\
 - An R package for clustering node-level time series by jointly modeling temporal dynamics and network structure via Graph-fused LASSO regularization and autoregressive models.
 
 ### Talks 
-
 Department of Statistics, University of California, Santa Cruz (Apr. 2024)\
 Department of Mathematics and Statistics, University of San Francisco (Feb. 2026)
 
-
 ### Awards
 UCLA Graduate Fellowship (2021-2023)\
-UCLA Summer Mentored Research Fellowship (2022)
+UCLA Summer Mentored Research Fellowship (2022)\
+Google Cloud Research Credits (2026)
 
 ### Services
 Journal/Conference Reviewer\
